@@ -3,5 +3,6 @@ numpy
 matplotlib
 seaborn
 nltk
-drive
+google-api-python-client
+--upgrade google-cloud-translate
 scikit-learn
