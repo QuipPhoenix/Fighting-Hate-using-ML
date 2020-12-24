@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+google-api-python-client
+--upgrade google-cloud-translate
+scikit-learn
